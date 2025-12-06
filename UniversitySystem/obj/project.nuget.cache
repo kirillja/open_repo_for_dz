@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7D/ne9RQoz0=",
+  "success": true,
+  "projectFilePath": "/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/UniversitySystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirillkudravcev/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/kirillkudravcev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

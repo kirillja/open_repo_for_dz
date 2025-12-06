@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UniversitySystem/1.0.0": {
+        "runtime": {
+          "UniversitySystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversitySystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/bin/Debug/net10.0/.msCoverageSourceRootsMapping_UniversitySystem.Tests
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/bin/Debug/net10.0/CoverletSourceRootsMapping_UniversitySystem.Tests
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/obj/Debug/net10.0/UniversitySystem.Tests.csproj.AssemblyReference.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/obj/Debug/net10.0/UniversitySystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/obj/Debug/net10.0/UniversitySystem.Tests.AssemblyInfoInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/obj/Debug/net10.0/UniversitySystem.Tests.AssemblyInfo.cs
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/obj/Debug/net10.0/UniversitySystem.Tests.csproj.CoreCompileInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem.Tests/obj/Debug/net10.0/UniversitySystem.Tests.sourcelink.json

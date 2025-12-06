@@ -1,0 +1,12 @@
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.AssemblyInfoInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.AssemblyInfo.cs
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.csproj.CoreCompileInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.sourcelink.json
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/bin/Debug/net8.0/UniversitySystem.deps.json
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/bin/Debug/net8.0/UniversitySystem.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/bin/Debug/net8.0/UniversitySystem.pdb
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/refint/UniversitySystem.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/UniversitySystem.pdb
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/UniversitySystem/obj/Debug/net8.0/ref/UniversitySystem.dll
