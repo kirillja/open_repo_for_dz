@@ -1,0 +1,12 @@
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/bin/Debug/net10.0/Delivery.Core.deps.json
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/bin/Debug/net10.0/Delivery.Core.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/bin/Debug/net10.0/Delivery.Core.pdb
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.AssemblyInfoInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.AssemblyInfo.cs
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.csproj.CoreCompileInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.sourcelink.json
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/refint/Delivery.Core.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/Delivery.Core.pdb
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR3/Delivery.Core/obj/Debug/net10.0/ref/Delivery.Core.dll
