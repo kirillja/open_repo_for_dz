@@ -1,0 +1,12 @@
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/bin/Debug/net8.0/RpgInventory.Core.deps.json
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/bin/Debug/net8.0/RpgInventory.Core.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/bin/Debug/net8.0/RpgInventory.Core.pdb
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.AssemblyInfoInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.AssemblyInfo.cs
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.csproj.CoreCompileInputs.cache
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.sourcelink.json
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/refint/RpgInventory.Core.dll
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/RpgInventory.Core.pdb
+/Users/kirillkudravcev/Documents/g/C#/open_repo_for_dz/LR2/RpgInventory.Core/obj/Debug/net8.0/ref/RpgInventory.Core.dll
